@@ -10,7 +10,7 @@ Building a RESTful Blog APIs using python and flask Part 2
 
 For this assignment you need to follow this tutorial to create the application.
 
-"Building a RESTful Blog APIs using python and flask - Part 2"
+"Building a RESTful Blog APIs using python and flask - Part 2"  
 https://www.codementor.io/olawalealadeusi896/building-a-restful-blog-apis-using-python-and-flask-part-2-l9y8awusp
 
 Upload it to Github and submit a link to the repo branch called "part2"
