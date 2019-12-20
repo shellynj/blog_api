@@ -18,28 +18,24 @@ https://www.codementor.io/olawalealadeusi896/restful-api-with-python-flask-frame
 
 Upload it to Github and submit a link to the repo branch called "part1"
 
-|Filename|Link to file (click each link to view)|
-|-----|-------|
-|requirements.txt|[requirements.txt file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/requirements.txt)|
-|__init__.py|[__init__.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/__init__.py)|
-|config.py|[config.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/config.py)|
-|database.conf|[database.conf file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/database.conf)|
-|models.py|[models.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/models.py)|
-|app.py|[app.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/app.py)|
-|docker-compose.yml|[docker-compose.yml file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/docker-compose.yml)|
-|database.py|[database.py file](https://github.com/shellynj/Setup_Docker_Flask_SqlAlchemy/blob/master/src/database.py)|
+
 
 ### Output:
 #### Running our application  
-* Docker Compose output:  
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-docker_compose_up_build.png
+* "Running the app for the first time" run python run.py:  
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
 
-* Start Flask app: (Run FLASK_APP=app.py, flask run)
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-docker_compose_up_build.png
+
+* Working Endpoint:
+Run http://127.0.0.1:5000/ on  browser
+![](https://github.com/shellynj/blog_api/edit/master/2first_endpoint.png)  
+
 
 * Database 
+Confirm whether tables were created in the db. RUN psql
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
+
+
 
 
 
