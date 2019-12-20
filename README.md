@@ -14,7 +14,10 @@ Upload it to Github and submit a link to the repo branch called "part2"
 
 
 ### Output:  
-#### Running our application  
+#### Running our application:
+
+POSTMAN RESULTS
+
 *"Running the app for the first time" run python run.py:  
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
 
