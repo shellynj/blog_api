@@ -1,10 +1,8 @@
-New Jersey Institute of Technology
-IS601 - 851
+### New Jersey Institute of Technology
+### IS601 - 851
 ### Homework Assignment:Web Application - Part 2
 #### Michelle Boykins
-Building a RESTful Blog APIs using python and flask Part 2
-### Objective:
-
+###### Building a RESTful Blog APIs using python and flask Part 2
 For this assignment you need to follow this tutorial to create the application.
 
 "Building a RESTful Blog APIs using python and flask - Part 2"  
