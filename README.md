@@ -1,13 +1,9 @@
-# blog_api
-Building a RESTful Blog APIs using python and flask Part 1
-
-
-
 ### New Jersey Institute of Technology
 ### IS601 - 851
 ### Homework Assignment:Web Application - Part 1
-Building a RESTful Blog APIs using python and flask Part 1
 #### Michelle Boykins
+###### Building a RESTful Blog APIs using python and flask Part 1
+
 
 
 ### Objective:
@@ -26,13 +22,13 @@ Upload it to Github and submit a link to the repo branch called "part1"
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
 
 
-* Working Endpoint:
-Run http://127.0.0.1:5000/ on  browser
-![](https://github.com/shellynj/blog_api/edit/master/2first_endpoint.png)  
+* Working Endpoint:  
+Run http://127.0.0.1:5000/ on  browser  
+![](https://github.com/shellynj/blog_api/edit/master/2first_endpoint.png)    
 
 
-* Database 
-Confirm whether tables were created in the db. RUN psql
+* Database   
+Confirm whether tables were created in the db. RUN psql  
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
 
 
