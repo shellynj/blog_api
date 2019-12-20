@@ -18,11 +18,11 @@ Upload it to Github and submit a link to the repo branch called "part2"
 
 POSTMAN RESULTS
 
-*"Running the app for the first time" run python run.py:  
+* "Running the app for the first time" run python run.py:  
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
 
 #### Working Endpoint:  
-*Run http://127.0.0.1:5000/ on browser  
+* Run http://127.0.0.1:5000/ on browser  
 ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1python run_py run.png)
 
 #### Database:  
