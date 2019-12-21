@@ -19,11 +19,12 @@ Upload it to Github and submit a link to the repo branch called "part1"
 ### Output:
 #### Running the application  
 * "Running the app for the first time" run python run.py:  
+
 ![](https://github.com/shellynj/blog_api/blob/master/src/images/1python_run_py.png)
 
 
-* Working Endpoint:  
-Run http://127.0.0.1:5000/ on  browser  
+* Working Endpoint:   Run http://127.0.0.1:5000/ on  browser  
+
 ![](https://github.com/shellynj/blog_api/blob/master/src/images/2first_endpoint.png) 
 
 
